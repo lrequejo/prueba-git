@@ -1,0 +1,37 @@
+.contenedor {
+    max-width: 960px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#principal ul {
+    display: flex;
+    list-style-type: none;
+}
+
+#principal ul li {
+    margin-left: 2rem;
+}
+
+.call-to-action {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero div {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+}
